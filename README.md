@@ -22,7 +22,7 @@ Let’s build something awesome together 🚀
 ---
 
 ### 🛠️ Languages and Tools:
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,bootstrap,git,github,python,java,angular" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,bootstrap,git,github,python,java,angular,tailwind" />
 
 ---
 
