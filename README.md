@@ -2,7 +2,7 @@
 
 ### A MERN Developer  
 
-- 🌱 Aspiring Python & Java Developer | Full Stack Developer (MERN & MEAN Stack) | Currently Learning and Building Projects  
+- 🌱 Aspiring Python | Full Stack Developer (MERN & MEAN Stack) | Currently Learning and Building Projects  
 - 🌐 All of my projects are available at [karthi-codes](https://github.com/Karthi-codes/) 
 - 💬 Ask me about: HTML, CSS, JavaScript, ReactJS, MongoDB, NodeJS, ExpressJS  
 - 📫 How to reach me: karthikeyanfullstack@gmail.com
